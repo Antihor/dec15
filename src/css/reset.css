@@ -25,6 +25,10 @@ a {
 
 button {
   cursor: pointer;
+  background-color: darkslateblue;
+  color: aliceblue;
+  border: 1px solid transparent;
+  border-radius: 4px;
 }
 
 img {
